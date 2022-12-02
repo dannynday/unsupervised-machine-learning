@@ -1,6 +1,4 @@
-# Module 10 Challenge: Crypto Clustering
-
-![Decorative image.](Images/10-5-challenge-image.png)
+# Crypto Clustering
 
 ## Background
 
