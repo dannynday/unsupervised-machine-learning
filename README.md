@@ -4,23 +4,16 @@
 
 ## Background
 
-In this Challenge, I will assemble investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, I want to include other factors that might impact the crypto market&mdash;leading to better performance for your portfolio.
+In this Challenge, I will assemble investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, I want to include other factors that might impact the crypto market&mdash;leading to better performance for a portfolio.
 
 
-## What I am Creating
+## What am I Creating
 
 In this Challenge, I will combine my financial Python programming skills with the new unsupervised learning skills.
 
 I will create a Jupyter notebook that clusters cryptocurrencies by their performance in different time periods. I will then plot the results.
 
 The provided CSV file contains the price change data of cryptocurrencies in different periods.
-
-## Files
-
-Download the following files to help you get started:
-
-[Module 10 Challenge files](Starter_Code)
-
 
 ### Find the Best Value for k Using the Original Data
 
