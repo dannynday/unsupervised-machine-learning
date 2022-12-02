@@ -4,7 +4,7 @@
 
 ## Background
 
-In this Challenge, I will assume the role of an advisor at one of the top five financial advisory firms in the world. Competitors are fierce, so I want to propose a novel approach to assembling investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, I want to include other factors that might impact the crypto market&mdash;leading to better performance for your portfolio.
+In this Challenge, I will assemble investment portfolios that are based on cryptocurrencies. Instead of basing my proposal on only returns and volatility, I want to include other factors that might impact the crypto market&mdash;leading to better performance for your portfolio.
 
 
 ## What I am Creating
