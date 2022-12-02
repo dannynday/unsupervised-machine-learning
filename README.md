@@ -45,7 +45,7 @@ In this section, I will perform a principal component analysis (PCA) and reduce 
 
 1. Create a PCA model instance and set `n_components=3`.
 
-2. Use the PCA model to reduce to three principal components. View the first five rows of the DataFrame.
+2. Use the PCA model to reduce to three principal components. View the first rows of the DataFrame.
 
 3. Retrieve the explained variance to determine how much information can be attributed to each principal component.
 
@@ -75,13 +75,13 @@ In this section, I will use the PCA data and the K-means algorithm with the best
 
 4. Create a copy of the DataFrame with the PCA data and add a new column to store the predicted clusters.
 
-5. Using hvPlot, create a scatter plot by setting `x="price_change_percentage_24h"` and `y="price_change_percentage_7d"`. Color the graph points with the labels found using K-means. Then, add the crypto name in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
+5. Using hvPlot, I will create a scatter plot by setting `x="price_change_percentage_24h"` and `y="price_change_percentage_7d"`. Color the graph points with the labels found using K-means. Then, add the crypto name in the `hover_cols` parameter to identify the cryptocurrency represented by each data point.
 
 ### Visualize and Compare the Results
 
 In this section, I will visually analyze the cluster analysis results by observing the outcome with and without using the optimization techniques.
 
-1. Create a composite plot using hvPlot and the plus (`+`) operator to compare the elbow curve that you created to find the best value for k with the original data and the PCA data.
+1. Create a composite plot using hvPlot and the plus (`+`) operator to compare the elbow curve that I created to find the best value for k with the original data and the PCA data.
 
 2. Create a composite plot using hvPlot and the plus (`+`) operator to compare the cryptocurrencies clusters using the original data and the PCA data.
 
