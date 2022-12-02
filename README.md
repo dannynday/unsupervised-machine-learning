@@ -94,4 +94,4 @@ In this section, I will visually analyze the cluster analysis results by observi
 
 3. Answer the following question: After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data by using K-means?
 
- create composite plots. here is the reference [the hvPlot documentation](https://holoviz.org/tutorial/Composing_Plots.html).
+ create composite plots. here is [the hvPlot documentation](https://holoviz.org/tutorial/Composing_Plots.html).
